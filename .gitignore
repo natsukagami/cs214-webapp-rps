@@ -5,7 +5,7 @@
 project/metals.sbt
 
 # vs code
-.vscode
+.vscode/*
 !.vscode/settings.json
 
 # scala 3
