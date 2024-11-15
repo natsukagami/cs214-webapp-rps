@@ -6,6 +6,7 @@ project/metals.sbt
 
 # vs code
 .vscode
+!.vscode/settings.json
 
 # scala 3
 .tasty
